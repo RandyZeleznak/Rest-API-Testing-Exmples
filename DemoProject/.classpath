@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/rest-assured-4.3.3-dist/docs/json-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/rest-assured-4.3.3-dist/docs/json-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/rest-assured-4.3.3-dist/docs/rest-assured-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/rest-assured-4.3.3-dist/docs/rest-assured-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/rest-assured-4.3.3-dist/docs/rest-assured-common-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/rest-assured-4.3.3-dist/docs/rest-assured-common-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/rest-assured-4.3.3-dist/docs/xml-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/rest-assured-4.3.3-dist/docs/xml-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/json-path-4.3.3-dist/json-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/json-path-4.3.3-dist/docs/json-path-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/json-path-4.3.3-dist/docs/json-path-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/json-path-4.3.3-dist/docs/rest-assured-common-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/json-path-4.3.3-dist/docs/rest-assured-common-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/json-schema-validator-4.3.3-dist/json-schema-validator-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/json-schema-validator-4.3.3-dist/docs/json-schema-validator-4.3.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/json-schema-validator-4.3.3-dist/docs/json-schema-validator-4.3.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/xml-path-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/rest-assured-4.3.3-dist/rest-assured-4.3.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/hamcrest-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/groovy-all-3.0.2-groovydoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/Downloads/groovy-xml-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/Downloads/groovy-json-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/Downloads/groovy-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/Downloads/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/Downloads/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/Downloads/httpmime-4.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/Downloads/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/Downloads/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/Downloads/commons-codec-1.15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
