@@ -31,5 +31,8 @@
 	<classpathentry kind="lib" path="C:/Users/Randy/Downloads/commons-logging-1.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Randy/Downloads/commons-lang3-3.11.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Randy/Downloads/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/Downloads/testng-7.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/Downloads/jcommander-1.81.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Randy/Downloads/jquery-3.5.1.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
