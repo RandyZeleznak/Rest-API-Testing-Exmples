@@ -11,12 +11,13 @@ public class DynamicJson {
 	
 	@Test
 	public void addBook() {
-		RestAssured.baseURI="http://216.10.245.166";
-		String response = given().header("Content-Type","application/json").
+		RestAssured.useRelaxedHTTPSValidation();
+		RestAssured.baseURI="https://rahulshettyacademy.com";
+		String response = given().log().all().header("Content-Type","application/json").
 		body(Payload.addBook()).
 		when() 
 		.post("/Library/Addbook.php") 
-		.then().assertThat().statusCode(200) 
+		.then().log().all().assertThat().statusCode(200) 
 		.extract().response().asString();
 		JsonPath js = ReUsableMethods.rawToJson(response);
 		String id = js.get("ID");
