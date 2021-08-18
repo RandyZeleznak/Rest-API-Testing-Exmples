@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8458" started-at="2021-05-19T18:01:56 CDT" finished-at="2021-05-19T18:02:04 CDT">
+  <suite name="Default suite" duration-ms="7615" started-at="2021-08-03T17:04:23 CDT" finished-at="2021-08-03T17:04:30 CDT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8458" started-at="2021-05-19T18:01:56 CDT" finished-at="2021-05-19T18:02:04 CDT">
-      <class name="com.zsquared.apitesting.files.DynamicJson">
-        <test-method status="PASS" signature="addBook()[pri:0, instance:com.zsquared.apitesting.files.DynamicJson@15d0c81b]" name="addBook" duration-ms="8390" started-at="2021-05-19T18:01:56 CDT" finished-at="2021-05-19T18:02:04 CDT">
+    <test name="Default test" duration-ms="7615" started-at="2021-08-03T17:04:23 CDT" finished-at="2021-08-03T17:04:30 CDT">
+      <class name="com.zsquared.apitesting.SumValidation">
+        <test-method status="PASS" signature="sumOfCourses()[pri:0, instance:com.zsquared.apitesting.SumValidation@480bdb19]" name="sumOfCourses" duration-ms="7446" started-at="2021-08-03T17:04:23 CDT" finished-at="2021-08-03T17:04:30 CDT">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addBook -->
-      </class> <!-- com.zsquared.apitesting.files.DynamicJson -->
+        </test-method> <!-- sumOfCourses -->
+      </class> <!-- com.zsquared.apitesting.SumValidation -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

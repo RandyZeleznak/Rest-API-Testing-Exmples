@@ -12,7 +12,7 @@ import io.restassured.RestAssured;
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 
-public class Basics {
+public class Basic {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -62,15 +62,25 @@ public class Payload {
 		
 	}
 	
-	public static String addBook() {
+	public static String addBook(String isbn, String aisle) {
 			String payload = "{\r\n" + 
 					"\r\n" + 
 					"    \"name\": \"Learn Appium Automation with Java\",\r\n" + 
-					"    \"isbn\":\"abcdef\",\r\n" + 
-					"    \"aisle\":\"2270\",\r\n" + 
+					"    \"isbn\":\""+isbn+"\",\r\n" + 
+					"    \"aisle\":\""+aisle+"\",\r\n" + 
 					"    \"author\":\"John Foe\"\r\n" + 
 					"}";
 			return payload;
+	}
+	
+	public static String deleteBook(String isbn, String aisle){
+		String id = isbn + aisle;
+		String s = "{\n" + 
+				" \n" + 
+				"\"ID\" : \""+id+"\"\n" + 
+				" \n" + 
+				"}";
+		return s;
 	}
 
 }
